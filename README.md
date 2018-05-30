@@ -34,3 +34,8 @@ https://github.com/IMcD23/IMTreeView<br/>
 
 ## Internet and reachability
 https://github.com/ashleymills/Reachability.swift<br/>
+
+
+## Chat & Messaging
+https://github.com/AppLozic/Applozic-iOS-SDK
+https://github.com/Kommunicate-io/Kommunicate-iOS-SDK
